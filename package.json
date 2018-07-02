@@ -1,0 +1,20 @@
+{
+  "name": "cab-trips",
+  "version": "1.0.0",
+  "description": "cab trips api",
+  "main": "index.js",
+  "author": "Hari",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "express": "^4.16.3",
+    "memory-cache": "^0.2.0",
+    "mysql": "^2.15.0",
+    "sinon": "^6.0.1"
+  }
+}
