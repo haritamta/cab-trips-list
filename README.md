@@ -15,6 +15,8 @@ Run following command to start app:
 
 This will run the server listening on localhost:3000
 
+Postman can be used to test following api endpoints:
+
 Endpoints:
 1. To calculate trips using cache:
 http://localhost:3000/trips, there are two query parameters - medallionArray and dateIn
